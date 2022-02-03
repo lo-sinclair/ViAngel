@@ -1,0 +1,9 @@
+name: ViAngel
+version: ${project.version}
+main: locb.odi.viangel.ViAngel
+api-version: 1.17
+
+commands:
+  viangel:
+    description: Main ViAngel command
+    aliases: [ via ]
